@@ -1,0 +1,15 @@
+{
+    "name":             "meta/silk",
+    "description":      "another e-commerce website",
+    "keywords":         ["silk", "online shop", "good"],
+    "time":             "2019-04-08",
+    "license":          "MIT",
+    "authors": [{
+        "name":         "Elvis Lim",
+        "email":        "elvis@xxx.com",
+        "role":         "Engineer"
+    }],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
